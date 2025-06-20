@@ -1,4 +1,4 @@
-<pre> let
+ let
     // 1. Load Excel files from your folder
     Source = Folder.Files("C:\Users\Renzie\Desktop\Power BI Practice\PQ Book\Chandeep's Weekly challenge\First Challenge"),
 
@@ -78,4 +78,4 @@
 in
     #"Sorted Combined Balances")
 }
-</pre>
+>
